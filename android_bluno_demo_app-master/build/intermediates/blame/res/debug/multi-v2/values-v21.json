@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\USER\\Desktop\\JONG\\android_bluno_demo_app-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\USER\\Desktop\\JONG\\android_bluno_demo_app-master\\res\\values-v21\\template-styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "650",
+                        "endColumns": "60",
+                        "endOffsets": "706"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "59",
+                        "endOffsets": "110"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\tutut\\Desktop\\android_bluno_demo_app-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tutut\\Desktop\\android_bluno_demo_app-master\\res\\values-v21\\template-styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "650",
+                        "endColumns": "60",
+                        "endOffsets": "706"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "59",
+                        "endOffsets": "110"
+                    }
+                }
+            ]
+        }
+    ]
+}

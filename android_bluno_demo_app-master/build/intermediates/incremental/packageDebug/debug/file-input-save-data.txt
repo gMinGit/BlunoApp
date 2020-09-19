@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Sep 19 22:00:46 KST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\USER\\Desktop\\JONG\\android_bluno_demo_app-master\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
